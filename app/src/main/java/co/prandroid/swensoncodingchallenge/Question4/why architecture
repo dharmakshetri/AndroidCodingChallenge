@@ -1,0 +1,7 @@
+Answer:In this application, i am using follwing pattern, and architecture
+
+- MVP(Model, view pattern)
+- Dagger 2(Dependency Injection)
+- Retrofit/OKhttp
+- RxJava
+- ButterKnife
