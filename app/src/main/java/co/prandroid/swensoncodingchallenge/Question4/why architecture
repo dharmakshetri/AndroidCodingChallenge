@@ -5,3 +5,14 @@ Answer:In this application, i am using follwing pattern, and architecture
 - Retrofit/OKhttp
 - RxJava
 - ButterKnife
+
+Why?
+If we are using mvp,then application to be easily extensible and maintainable because of we need to defined well separated layers
+we can test them independently.where as retrofit  makes it relatively easy to retrieve and upload JSON. Retrofit uses the OkHttp
+library for HTTP requests.If we are using rxjava, app interactions while a background network thread is running in background
+and orchestrating all of this quickly become unmanageable code mess. where as butterknife it makes life as a developer easier.
+It allows developers to perform injection on arbitrary objects, views and OnClickListeners.
+
+
+I have same kind of getting public api data and display on app.
+Here is github link, where you find out some public api solution: https://github.com/dharmakshetri/Android-API-Demos
