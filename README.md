@@ -2,13 +2,12 @@
 
 ### Used:
 Android
-
 Kotlin
-
 MVVM
-
 Dagger
-
 Retrofit
-
 ButterKnife
+
+five questions
+1. normal logical question
+2. java related question
